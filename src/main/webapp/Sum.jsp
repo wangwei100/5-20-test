@@ -9,6 +9,7 @@
 <script type="text/javascript"
 	src="http://code.jquery.com/jquery-3.3.1.min.js"></script>
 <body>
+
 	<input id="s1" type="text" class="rect" />+
 	<input id="s2" type="text" class="rect" />
 	<input type="button" value="=" onclick="acc();" />
